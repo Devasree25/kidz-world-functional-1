@@ -214,3 +214,9 @@ h2 {
 #background{
   width: 100%;
 }
+.button{
+  cursor: pointer;
+}
+#cart{
+  cursor: pointer;
+}
